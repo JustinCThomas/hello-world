@@ -1,5 +1,4 @@
 # hello-world
-Practice Repo
 
 Hello World!
 
